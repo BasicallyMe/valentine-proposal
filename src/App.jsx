@@ -50,7 +50,7 @@ const normalCards = [
   },
   {
     id: 7,
-    text: "❤️ I can't wait to make this Valentine’s special for you! Click the button below🥰",
+    text: "❤️ I can't wait to make this Valentine’s special for you! Before you go I've a message for you🥰",
     buttons: [
       { label: "Finish", action: "finish"}
     ],
